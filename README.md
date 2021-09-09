@@ -3,7 +3,7 @@ Toy example for teaching git remotes and forks.
 Christopher was here
 Kureha was also here :)
 A new commit!
-Kenji is here.
+Kenji came here again!
 Christopher was here AGAIN
 hoching was here
 Kristine was Here
